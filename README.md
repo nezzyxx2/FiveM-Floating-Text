@@ -60,17 +60,6 @@ local floatingTextConfig = {
 
 ---
 
-## 📦 Installation
-
-1. Drop the resource into your `resources` folder.
-2. Add to your `server.cfg`:
-   ```
-   ensure your-resource-name
-   ```
-3. Edit coordinates and job names in the config as needed.
-
----
-
 ## 📎 Notes
 
 - **No server-side script required** — this is 100% client-side.
