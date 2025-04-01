@@ -80,8 +80,4 @@ local floatingTextConfig = {
 
 ## 👤 Created by Verdict Team
 
-Part of the [Verdict](https://discord.gg/vdct) project — Join us for FiveM development, bots, and server tools.
-## 💡 Tip
-
-You can easily add interaction (e.g., pressing `E`) by checking distance and using `IsControlJustPressed` inside the loop.
-```
+Part of the [Verdict](https://discord.gg/vdct) project — Join us for FiveM development, bots, and server tools
