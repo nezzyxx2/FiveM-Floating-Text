@@ -1,5 +1,3 @@
-Got it! Here's your updated `README.md` with a fixed config style section, clearly marked as **Client-Side Only**, and focused only on what matters for the client script:
-
 ---
 
 ```markdown
