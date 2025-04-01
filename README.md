@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧠 ESX Floating Text System (Client-Side Only)
 
