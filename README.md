@@ -1,4 +1,3 @@
-```markdown
 # 🧠 ESX Floating Text System (Client-Side Only)
 
 A lightweight, client-side script for **Old and New ESX** that displays 3D floating help text based on player proximity and job.  
@@ -16,6 +15,14 @@ Designed for **0.00ms resmon idle**, making it ideal for performance-sensitive s
 
 ---
 
+## 📸 Preview
+
+![Floating Text Preview]([https://your-image-link-or-gif-here.com](https://files.catbox.moe/f146tr))
+
+> Example of floating 3D help text showing up based on job & proximity.
+
+---
+
 ## 🛠️ Configuration (Client-Side Only)
 
 ### `Config.OldESX`
@@ -26,7 +33,7 @@ Config.OldESX = false -- true = Old ESX | false = New ESX
 ```
 
 ### Floating Text Setup
-Define locations, messages, and job access in this table:
+Define locations, messages, and job access:
 ```lua
 local floatingTextConfig = {
   {
@@ -53,6 +60,17 @@ local floatingTextConfig = {
 
 ---
 
+## 📦 Installation
+
+1. Drop the resource into your `resources` folder.
+2. Add to your `server.cfg`:
+   ```
+   ensure your-resource-name
+   ```
+3. Edit coordinates and job names in the config as needed.
+
+---
+
 ## 📎 Notes
 
 - **No server-side script required** — this is 100% client-side.
@@ -60,7 +78,13 @@ local floatingTextConfig = {
 
 ---
 
-## 👤 Created by Verdict
+## 👤 Created by Nez
 
 Part of the [Verdict](https://discord.gg/vdct) project — Join us for FiveM development, bots, and server tools.
+
+---
+
+## 💡 Tip
+
+You can easily add interaction (e.g., pressing `E`) by checking distance and using `IsControlJustPressed` inside the loop.
 ```
