@@ -17,7 +17,7 @@ Designed for **0.00ms resmon idle**, making it ideal for performance-sensitive s
 
 ## 📸 Preview
 
-![Floating Text Preview]([https://your-image-link-or-gif-here.com](https://files.catbox.moe/f146tr))
+![Floating Text Preview](https://files.catbox.moe/f146tr))
 
 > Example of floating 3D help text showing up based on job & proximity.
 
@@ -78,12 +78,9 @@ local floatingTextConfig = {
 
 ---
 
-## 👤 Created by Nez
+## 👤 Created by Verdict Team
 
 Part of the [Verdict](https://discord.gg/vdct) project — Join us for FiveM development, bots, and server tools.
-
----
-
 ## 💡 Tip
 
 You can easily add interaction (e.g., pressing `E`) by checking distance and using `IsControlJustPressed` inside the loop.
